@@ -6,18 +6,17 @@ The dataset is made up of questions asked by dentists during the initial patient
 
 From the dataset, interesting observations were made:
 
-<div sytle="text-align: center;">
+<p align="center">
     <img src="images/diagnosisVcount_2.png" alt="FinalDiagnosis plot" width="400" height="400"/>
-</div>
+</p>
 The most prominent final diagnosis in the community is Apthous Ulcer, followed by Acute Irreversible Pulpitis, Acute Gingivitis, and Acute Reversible Pulpitis.
 
 Other important observations made include the relationship between Age, Gender and the final diagnosis
 
-<div sytle="text-align: center;">
+<p align="center">
     <img src="images/ageVdiagnosis.png" alt="AgeVDiagnosis plot" width="400" height="400"/>
-
     <img src="images/genderVdiagnosis.png" alt="GenderVDiagnosis plot" width="400" height="400"/>
-</div>
+</p>
 ## Background Research Pre-Data Acquisition
 
 The initial step in crafting our dataset involved pinpointing its crucial features. We sought the expertise of seasoned dental surgeons and practitioners in the area, initially approaching five individuals with roughly twenty years of experience under their belts. Two of these surgeons expressed a keen interest in collaborating with us. Through a week-long series of discussions, we embarked on a collaborative effort to identify the most pertinent questions typically asked during patient screening. Their invaluable insights proved instrumental in shaping the direction of our research.
