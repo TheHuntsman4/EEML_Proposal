@@ -7,7 +7,15 @@ The dataset is made up of questions asked by dentists during the initial patient
 
 From the dataset, interesting observations were made:
 
-The most prominent final diagnosis in the community is Apthous Ulcer, followed by Acute Irreversible Pulpitis, Acute Gingivitis, and Acute Reversible Pulpitis. 
+<img src="images/diagnosisVcount_2.png" alt="FinalDiagnosis plot" width="400" height="400"/>
+
+The most prominent final diagnosis in the community is Apthous Ulcer, followed by Acute Irreversible Pulpitis, Acute Gingivitis, and Acute Reversible Pulpitis.
+
+Other important observations made include the relationship between Age, Gender and the final diagnosis
+
+<img src="images/ageVdiagnosis.png" alt="AgeVDiagnosis plot" width="400" height="400"/>
+
+<img src="images/genderVdiagnosis.png" alt="GenderVDiagnosis plot" width="400" height="400"/>
 
 
 ## Background Research Pre-Data Acquisition
